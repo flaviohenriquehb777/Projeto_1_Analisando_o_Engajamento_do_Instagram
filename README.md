@@ -13,3 +13,5 @@ A direção da empresa também dá alguns direcionamentos:
 Para esse projeto utilizei duas bibliotecas:
   ## Pandas;
   ## Numpy.
+  
+## -> Todo passo a passo e as conclusões se encontram nas páginas de códigos, que estão divididas em parte 1 e 2.

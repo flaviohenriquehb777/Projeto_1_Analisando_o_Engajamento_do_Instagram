@@ -19,7 +19,16 @@ O objetivo é descobrir o motivo desse desvio padrão é tão alto.
 - Em uma análise inicial, postagens incluindo pessoas engajam muito mais que aquelas que não possui ninguém**
 - Postagens em épocas de campanha também possuem um melhor engajamento**
 - Nessa base, o carrossel não foi um diferencial para melhorar o engajamento da marca**
-  
+
+## Parte 2 - Tags:
+## O que queremos responder?
+- Qual a tag mais engaja nessas publicações?
+    - Agora queremos olhar apenas tags
+<br><br>
+- Ele também dá alguns direcionamentos:
+    - Podem ignorar a coluna visualizações, queremos entender apenas curtidas, comentários e interações
+    - Tags vazias é que realmente não possuem tag (favor tratar como vazio)
+
 ## Para esse projeto utilizei duas bibliotecas:
 Pandas;<br>
 Numpy.

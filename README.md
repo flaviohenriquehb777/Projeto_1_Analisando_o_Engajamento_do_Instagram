@@ -24,10 +24,6 @@ O objetivo é descobrir o motivo desse desvio padrão é tão alto.
 ## O que queremos responder?
 - Qual a tag mais engaja nessas publicações?
     - Agora queremos olhar apenas tags
-<br><br>
-- Ele também dá alguns direcionamentos:
-    - Podem ignorar a coluna visualizações, queremos entender apenas curtidas, comentários e interações
-    - Tags vazias é que realmente não possuem tag (favor tratar como vazio)
 
 ## Para esse projeto utilizei duas bibliotecas:
 Pandas;<br>

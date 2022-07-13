@@ -13,6 +13,11 @@ Temos a base de dados do Instagram desde que o usuário começou a postar na mar
 ## A direção da empresa também dá alguns direcionamentos:
 "Pode ignorar a coluna visualizações. Queremos entender apenas curtidas, comentários e interações."<br>
 "Tags vazias é que realmente não possuem tag (favor tratar como vazio)."
+
+## Conclusões (parte1)<br>
+- Em uma análise inicial, postagens incluindo pessoas engajam muito mais que aquelas que não possui ninguém**
+- Postagens em épocas de campanha também possuem um melhor engajamento**
+- Nessa base, o carrossel não foi um diferencial para melhorar o engajamento da marca**
   
 ## Para esse projeto utilizei duas bibliotecas:
 Pandas;<br>

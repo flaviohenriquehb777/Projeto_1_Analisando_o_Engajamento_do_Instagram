@@ -7,12 +7,13 @@ O objetivo é descobrir o motivo desse desvio padrão é tão alto.
 
 ## O que queremos responder?
 
-Qual tipo de conteúdo mais engaja no Instagram da empresa?<br>
-Temos a base de dados do Instagram desde que o usuário começou a postar na marca até o dia 27/03/2022.
+- Qual tipo de conteúdo mais engaja no Instagram da empresa?<br>
+- Temos a base de dados do Instagram desde que o usuário começou a postar na marca até o dia 27/03/2022.
 
 ## A direção da empresa também dá alguns direcionamentos:
-"Pode ignorar a coluna visualizações. Queremos entender apenas curtidas, comentários e interações."<br>
-"Tags vazias é que realmente não possuem tag (favor tratar como vazio)."
+
+- "Pode ignorar a coluna visualizações. Queremos entender apenas curtidas, comentários e interações."<br>
+- "Tags vazias é que realmente não possuem tag (favor tratar como vazio)."
 
 ## Conclusões (parte1)<br>
 - Em uma análise inicial, postagens incluindo pessoas engajam muito mais que aquelas que não possui ninguém**

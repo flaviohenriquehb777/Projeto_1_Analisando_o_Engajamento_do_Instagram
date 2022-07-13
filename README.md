@@ -41,4 +41,4 @@ O objetivo é descobrir o motivo desse desvio padrão é tão alto.
 Pandas;<br>
 Numpy.
   
--- Todo passo a passo e as conclusões se encontram nas páginas de códigos, que estão divididas em parte 1 e 2.
+- <b>Todo passo a passo e as conclusões se encontram nas páginas de códigos, que estão divididas em parte 1 e 2.

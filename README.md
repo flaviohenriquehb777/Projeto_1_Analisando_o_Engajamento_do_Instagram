@@ -1,11 +1,11 @@
-# Projeto 1_Analisando o engajamento do Instagram
+# Projeto 1_Analisando o engajamento do Instagram<br>
 Uma empresa quer saber o motivo pelo qual algumas postagens recebem baixo número de curtidas e comentários. <br>
 Por outro lado, outras postagens recebem um número bem maior de curtidas e comentários.<br>
 O objetivo é descobrir o motivo desse desvio padrão é tão alto.
 
-O que queremos responder?
+## O que queremos responder?
 
-Qual tipo de conteúdo mais engaja no Instagram da empresa?
+Qual tipo de conteúdo mais engaja no Instagram da empresa?<br>
 Temos a base de dados do Instagram desde que o usuário começou a postar na marca até o dia 27/03/2022.
 
 ## A direção da empresa também dá alguns direcionamentos:

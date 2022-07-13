@@ -12,7 +12,7 @@ Temos a base de dados do Instagram desde que o usuário começou a postar na mar
 "Tags vazias é que realmente não possuem tag (favor tratar como vazio)."
   
 ## Para esse projeto utilizei duas bibliotecas:
-Pandas;
+Pandas;<br></br>
 Numpy.
   
 -> Todo passo a passo e as conclusões se encontram nas páginas de códigos, que estão divididas em parte 1 e 2.

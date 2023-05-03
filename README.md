@@ -1,4 +1,4 @@
-# Projeto 1_Analisando o engajamento do Instagram<br>
+# Projeto 1_Analisando o engajamento no Instagram<br>
 
 ## Parte 1:
 Uma empresa quer saber o motivo pelo qual algumas postagens recebem baixo número de curtidas e comentários. <br>

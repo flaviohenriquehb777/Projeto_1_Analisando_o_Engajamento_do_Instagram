@@ -1,4 +1,4 @@
-# Analisando o engajamento no Instagram (Shop 77) <br> 
+# Analisando o Engajamento no Instagram (Shop 77) <br> 
 
 ## Parte 1:
 Uma empresa quer saber o motivo pelo qual algumas postagens recebem baixo número de curtidas e comentários. <br>
